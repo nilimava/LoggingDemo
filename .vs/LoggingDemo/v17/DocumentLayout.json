@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE Projects\\LoggingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|d:\\asp.net core projects\\loggingdemo\\loggingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|d:\\asp.net core projects\\loggingdemo\\loggingdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|d:\\asp.net core projects\\loggingdemo\\loggingdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|d:\\asp.net core projects\\loggingdemo\\loggingdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DC1A34-AA1E-4682-BF10-C3B31146AD70}|LoggingDemo\\LoggingDemo.csproj|solutionrelative:loggingdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoggingDemo\\appsettings.Development.json",
+              "ToolTip": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\appsettings.Development.json",
+              "RelativeToolTip": "LoggingDemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T05:03:58.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingDemo\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\Program.cs",
+              "RelativeToolTip": "LoggingDemo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:44:57.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "LoggingDemo\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "LoggingDemo\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:34:15.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "LoggingDemo\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET CORE Projects\\LoggingDemo\\LoggingDemo\\appsettings.json",
+              "RelativeToolTip": "LoggingDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T04:32:19.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
